@@ -15,7 +15,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
 
-                <data android:host="mobile.department" android:scheme="sinitek"></data>
+                <data android:host="mobile.department" android:scheme="sinitek"/>
             </intent-filter>
         </activity>
         <service
